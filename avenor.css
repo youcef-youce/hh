@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0%;
+    background-color: #0F172A;
+}
+h1{
+   color: #38BDF8;
+   text-align: center;
+   margin-top: 60px;
+   font-family: poppins
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;;
+    font-size: 120%;
+}
+.wp{
+    background-color: #F8FAFC;
+    justify-items: center;
+    align-items: center;
+    padding: 10px;
+    margin-left: 200px ;
+    margin-right: 200px ;
+    border-radius: 20px;
+    font-family: poppins;
+    color: #0F172A;
+}
+button{
+    background-color: #0F172A;
+    color: #F8FAFC;
+    font-size: 80%;
+    border: none;
+    border-radius: 5px;
+}
+p{
+    color: #F8FAFC;
+    margin-left: 59px;
+    font-family: poppins;
+}
+.p2{
+    color: #F8FAFC;
+    margin-left: 600px;
+    font-family: poppins;
+}
